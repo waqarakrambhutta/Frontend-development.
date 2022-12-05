@@ -1,0 +1,17 @@
+#p1
+{
+    font-family: cursive;
+    text-align: center;
+    font-size: 1.5cm;
+}
+#p2{
+    font-weight: bold;
+    font-size: 25px;
+}
+#p3{
+    font-weight: bold;
+
+}
+hr{
+    color: rgb(108, 108, 207);
+}
